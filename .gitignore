@@ -40,9 +40,6 @@ out/
 *.iml
 *.iws
 *.swp
-.ai/mcp/mcp.json
-.junie/memory/
-.junie/plans/
 
 # Branch ghpages
 assets/
@@ -69,5 +66,4 @@ config/*.yml
 .DS_Store
 
 # Misc
-.playwright-mcp/
 cypress/screenshots/
